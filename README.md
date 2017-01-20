@@ -11,11 +11,11 @@ If the user wants to use external pin then they can change the pin number accord
 
 ##**Requirements**
 
-Arduino IDE
-Android Studio
-Android Phone ( Emulator will not work)
-Arduino Board ( Arduino MEGA 2560 preferred)
-Micro USB OTG to USB Adapter
+- Arduino IDE
+- Android Studio
+- Android Phone ( Emulator will not work)
+- Arduino Board ( Arduino MEGA 2560 preferred)
+- Micro USB OTG to USB Adapter
 
 ##**Installation**
 
