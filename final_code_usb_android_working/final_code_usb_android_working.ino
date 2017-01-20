@@ -7,7 +7,7 @@
  This example code is in the public domain.
  */
 
-int led = 10;           // the pin that the LED is attached to
+int led = 13;           // the pin that the LED is attached to or 13 for internal pin of MEGA 2560
 int brightness = 0;    // how bright the LED is
 int fadeAmount = 5;    // how many points to fade the LED by
 int incomingByte = 0;   // for incoming serial data
